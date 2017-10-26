@@ -4,6 +4,7 @@
  */
 public class BizleyTest
 {
+    private BizleyTest(){}
     public static void test(String s)
     {
         System.out.println(HAMMER[0]);

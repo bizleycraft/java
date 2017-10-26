@@ -1,12 +1,14 @@
 #BlueJ class context
 comment0.target=BizleyTest
 comment0.text=\r\n\ Debug-beautifying\ class\ by\ Joshua\ Bizley\r\n\ October\ 26th,\ 2017\r\n
-comment1.params=s
-comment1.target=void\ test(java.lang.String)
+comment1.params=
+comment1.target=BizleyTest()
 comment2.params=s
-comment2.target=void\ print(java.lang.String)
-comment3.params=
-comment3.target=void\ success()
+comment2.target=void\ test(java.lang.String)
+comment3.params=s
+comment3.target=void\ print(java.lang.String)
 comment4.params=
-comment4.target=void\ end()
-numComments=5
+comment4.target=void\ success()
+comment5.params=
+comment5.target=void\ end()
+numComments=6
