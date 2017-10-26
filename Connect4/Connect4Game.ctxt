@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Connect4Game
+comment1.params=
+comment1.target=Connect4Game()
+comment10.params=width
+comment10.target=void\ printBoardWidth(int)
+comment11.params=piece
+comment11.target=void\ printPiece(int)
+comment12.params=width\ i
+comment12.target=void\ printMidRails(int,\ int)
+comment2.params=p
+comment2.target=Connect4Game(char[])
+comment3.params=board\ column
+comment3.target=void\ dropPiece(Connect4Board,\ int)
+comment4.params=board\ column
+comment4.target=int\ canDrop(Connect4Board,\ int)
+comment5.params=board
+comment5.target=void\ reset(Connect4Board)
+comment6.params=board
+comment6.target=void\ checkWin(Connect4Board)
+comment7.params=board\ x\ y
+comment7.target=void\ findRowOf4(Connect4Board,\ int,\ int)
+comment8.params=board\ x\ y\ hori\ vert\ player\ inARow
+comment8.target=int\ maxInARow(Connect4Board,\ int,\ int,\ int,\ int,\ int,\ int)
+comment9.params=board
+comment9.target=void\ drawBoard(Connect4Board)
+numComments=13

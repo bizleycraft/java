@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Connect4AI
+comment1.params=d
+comment1.target=Connect4AI(int)
+comment2.params=board
+comment2.target=int\ makeMove(Connect4Board)
+comment3.params=board\ depth
+comment3.target=int\ miniMax(Connect4Board,\ int)
+comment4.params=array
+comment4.target=int\ max(java.util.ArrayList)
+comment5.params=array
+comment5.target=int\ min(java.util.ArrayList)
+comment6.params=board\ depth
+comment6.target=int\ score(Connect4Board,\ int)
+numComments=7

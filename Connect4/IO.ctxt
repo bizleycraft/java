@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=IO
+comment1.params=prompt
+comment1.target=java.lang.String\ getUserInput(java.lang.String)
+numComments=2

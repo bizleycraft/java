@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BizleyTest
+comment0.text=\r\n\ Debug-beautifying\ class\ by\ Joshua\ Bizley\r\n\ October\ 26th,\ 2017\r\n
+comment1.params=s
+comment1.target=void\ test(java.lang.String)
+comment2.params=s
+comment2.target=void\ print(java.lang.String)
+comment3.params=
+comment3.target=void\ success()
+comment4.params=
+comment4.target=void\ end()
+numComments=5
